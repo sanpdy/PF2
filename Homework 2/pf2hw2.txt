@@ -1,0 +1,359 @@
+Script started on 2023-02-16 22:08:01-0600
+]0;sankalpp@turing: ~/pf2Homework2[01;32msankalpp@turing[00m:[01;34m~/pf2Homework2[00m$ ./[K[Kg++ -Wall main.cpp RestaurantN[KList.cpp RestaurantNode.cpp -o M[Kmain,[K.exe
+]0;sankalpp@turing: ~/pf2Homework2[01;32msankalpp@turing[00m:[01;34m~/pf2Homework2[00m$ ./main.exe
+----------------------------------
+  Welcome to the Restaurant List  
+----------------------------------
+(1) Add a meal
+(2) Print the list
+(3) Find the highest price
+(4) Change the price of a dish
+(5) Exit menu
+----------------------------------
+Enter user choice:
+-50
+
+Error. Choose one of the menu options between 1-5.
+----------------------------------
+  Welcome to the Restaurant List  
+----------------------------------
+(1) Add a meal
+(2) Print the list
+(3) Find the highest price
+(4) Change the price of a dish
+(5) Exit menu
+----------------------------------
+Enter user choice:
+230
+
+Error. Choose one of the menu options between 1-5.
+----------------------------------
+  Welcome to the Restaurant List  
+----------------------------------
+(1) Add a meal
+(2) Print the list
+(3) Find the highest price
+(4) Change the price of a dish
+(5) Exit menu
+----------------------------------
+Enter user choice:
+sankdakaskd
+
+Error. Choose one of the menu options between 1-5.
+----------------------------------
+  Welcome to the Restaurant List  
+----------------------------------
+(1) Add a meal
+(2) Print the list
+(3) Find the highest price
+(4) Change the price of a dish
+(5) Exit menu
+----------------------------------
+Enter user choice:
+1 2
+
+List is empty.
+----------------------------------
+  Welcome to the Restaurant List  
+----------------------------------
+(1) Add a meal
+(2) Print the list
+(3) Find the highest price
+(4) Change the price of a dish
+(5) Exit menu
+----------------------------------
+Enter user choice:
+3
+
+The list is empty.
+----------------------------------
+  Welcome to the Restaurant List  
+----------------------------------
+(1) Add a meal
+(2) Print the list
+(3) Find the highest price
+(4) Change the price of a dish
+(5) Exit menu
+----------------------------------
+Enter user choice:
+4
+
+Enter the name of the meal to change the price: 5
+Enter the new price: 230
+
+That meal was not found.
+----------------------------------
+  Welcome to the Restaurant List  
+----------------------------------
+(1) Add a meal
+(2) Print the list
+(3) Find the highest price
+(4) Change the price of a dish
+(5) Exit menu
+----------------------------------
+Enter user choice:
+1
+
+Enter Restaurant Name: 
+Kendrick Lamar's Diner
+Enter Restaurant Rating: 
+-50
+Error. Choose a rating between 0-10.
+Enter Restaurant Rating: 
+23
+Error. Choose a rating between 0-10.
+Enter Restaurant Rating: 
+10  7.6 4
+Enter Meal Name: 
+Waffles
+Enter Type of Meal: 
+2 Breakfast
+Enter Price: 
+-50
+Error. Choose a valid price that is at least 0.
+Enter Price: 
+3.99
+----------------------------------
+  Welcome to the Restaurant List  
+----------------------------------
+(1) Add a meal
+(2) Print the list
+(3) Find the highest price
+(4) Change the price of a dish
+(5) Exit menu
+----------------------------------
+Enter user choice:
+2
+
+Restaurant: Kendrick Lamar's Diner
+Rating: 7.4
+Meal: Waffles
+Type: Breakfast
+Price: $3.99
+
+----------------------------------
+  Welcome to the Restaurant List  
+----------------------------------
+(1) Add a meal
+(2) Print the list
+(3) Find the highest price
+(4) Change the price of a dish
+(5) Exit menu
+----------------------------------
+Enter user choice:
+1
+
+Enter Restaurant Name: 
+San's Pizzeria
+Enter Restaurant Rating: 
+10
+Enter Meal Name: 
+Cheese Slice
+Enter Type of Meal: 
+Lunch
+Enter Price: 
+0 9.  4.99
+----------------------------------
+  Welcome to the Restaurant List  
+----------------------------------
+(1) Add a meal
+(2) Print the list
+(3) Find the highest price
+(4) Change the price of a dish
+(5) Exit menu
+----------------------------------
+Enter user choice:
+1
+
+Enter Restaurant Name: 
+O Ruth    Expe    CashC cow Steakhouse
+Enter Restaurant Rating: 
+30  30
+Error. Choose a rating between 0-10.
+Enter Restaurant Rating: 
+10  5.  9.1 2
+Enter Meal Name: 
+S MediuM R   m Rare s Steak
+Enter Type of Meal: 
+Dinner
+Enter Price: 
+40.9   2
+----------------------------------
+  Welcome to the Restaurant List  
+----------------------------------
+(1) Add a meal
+(2) Print the list
+(3) Find the highest price
+(4) Change the price of a dish
+(5) Exit menu
+----------------------------------
+Enter user choice:
+4 2
+
+Restaurant: Cashcow Steakhouse
+Rating: 9.2
+Meal: Medium Rare Steak
+Type: Dinner
+Price: $42.00
+
+Restaurant: San's Pizzeria
+Rating: 10.0
+Meal: Cheese Slice
+Type: Lunch
+Price: $4.99
+
+Restaurant: Kendrick Lamar's Diner
+Rating: 7.4
+Meal: Waffles
+Type: Breakfast
+Price: $3.99
+
+----------------------------------
+  Welcome to the Restaurant List  
+----------------------------------
+(1) Add a meal
+(2) Print the list
+(3) Find the highest price
+(4) Change the price of a dish
+(5) Exit menu
+----------------------------------
+Enter user choice:
+-50
+
+Error. Choose one of the menu options between 1-5.
+----------------------------------
+  Welcome to the Restaurant List  
+----------------------------------
+(1) Add a meal
+(2) Print the list
+(3) Find the highest price
+(4) Change the price of a dish
+(5) Exit menu
+----------------------------------
+Enter user choice:
+150
+
+Error. Choose one of the menu options between 1-5.
+----------------------------------
+  Welcome to the Restaurant List  
+----------------------------------
+(1) Add a meal
+(2) Print the list
+(3) Find the highest price
+(4) Change the price of a dish
+(5) Exit menu
+----------------------------------
+Enter user choice:
+3
+
+The most expensive meal is:
+Restaurant: Cashcow Steakhouse
+Rating: 9.2
+Meal: Medium Rare Steak
+Type: Dinner
+Price: $42.00
+
+----------------------------------
+  Welcome to the Restaurant List  
+----------------------------------
+(1) Add a meal
+(2) Print the list
+(3) Find the highest price
+(4) Change the price of a dish
+(5) Exit menu
+----------------------------------
+Enter user choice:
+4
+
+Enter the name of the meal to change the price: snadan
+Enter the new price: -50
+
+Error. Please enter a valid price.
+Enter the new price: 50
+
+That meal was not found.
+----------------------------------
+  Welcome to the Restaurant List  
+----------------------------------
+(1) Add a meal
+(2) Print the list
+(3) Find the highest price
+(4) Change the price of a dish
+(5) Exit menu
+----------------------------------
+Enter user choice:
+- 4
+
+Enter the name of the meal to change the price: Cheese Slice
+Enter the new price: -50   -100
+
+Error. Please enter a valid price.
+Enter the new price: 100
+
+The price was changed successfully.
+----------------------------------
+  Welcome to the Restaurant List  
+----------------------------------
+(1) Add a meal
+(2) Print the list
+(3) Find the highest price
+(4) Change the price of a dish
+(5) Exit menu
+----------------------------------
+Enter user choice:
+2
+
+Restaurant: Cashcow Steakhouse
+Rating: 9.2
+Meal: Medium Rare Steak
+Type: Dinner
+Price: $42.00
+
+Restaurant: San's Pizzeria
+Rating: 10.0
+Meal: Cheese Slice
+Type: Lunch
+Price: $100.00
+
+Restaurant: Kendrick Lamar's Diner
+Rating: 7.4
+Meal: Waffles
+Type: Breakfast
+Price: $3.99
+
+----------------------------------
+  Welcome to the Restaurant List  
+----------------------------------
+(1) Add a meal
+(2) Print the list
+(3) Find the highest price
+(4) Change the price of a dish
+(5) Exit menu
+----------------------------------
+Enter user choice:
+3
+
+The most expensive meal is:
+Restaurant: San's Pizzeria
+Rating: 10.0
+Meal: Cheese Slice
+Type: Lunch
+Price: $100.00
+
+----------------------------------
+  Welcome to the Restaurant List  
+----------------------------------
+(1) Add a meal
+(2) Print the list
+(3) Find the highest price
+(4) Change the price of a dish
+(5) Exit menu
+----------------------------------
+Enter user choice:
+5
+
+Exiting program.
+]0;sankalpp@turing: ~/pf2Homework2[01;32msankalpp@turing[00m:[01;34m~/pf2Homework2[00m$ e[Kexit
+exit
+
+Script done on 2023-02-16 22:12:27-0600
