@@ -1,0 +1,3389 @@
+Script started on 2023-04-20 18:18:45-0500
+]0;sankalpp@turing: ~/Homework6[01;32msankalpp@turing[00m:[01;34m~/Homework6[00m$ script pf2HW5.txt[2Pcd Homework\ 5/ls[Kcdexit./main.exeg++ -Wall main.cpp Book.cpp -o main.exe[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./main.exe[K[6Pexit[2Pcdlscd Homework\ 5/script pf2HW5.txt[Kg++ -Wall *.cpp -o main.exe
+]0;sankalpp@turing: ~/Homework6[01;32msankalpp@turing[00m:[01;34m~/Homework6[00m$ ./main.e[Kexe
+
+Homework 6 Menu:
+~~~~~~~~~~~~~~~~
+1. Insert
+2. Delete
+3. Update
+4. Search
+5. Print
+6. Exit
+Enter your choice (1-6): 
+0 -5
+Invalid choice. Please enter a number between 1 and 6.
+
+Homework 6 Menu:
+~~~~~~~~~~~~~~~~
+1. Insert
+2. Delete
+3. Update
+4. Search
+5. Print
+6. Exit
+Enter your choice (1-6): 
+10
+Invalid choice. Please enter a number between 1 and 6.
+
+Homework 6 Menu:
+~~~~~~~~~~~~~~~~
+1. Insert
+2. Delete
+3. Update
+4. Search
+5. Print
+6. Exit
+Enter your choice (1-6): 
+5
+
+-------------------
+Print selected.
+-------------------
+
+Name: Luis Rodriguez
+Country: Spain
+City: Madrid
+Gender: M
+GPA: 3.5
+
+Name: Ivan Petrov
+Country: Bulgaria
+City: Plovdiv
+Gender: M
+GPA: 3.4
+
+Name: Kira Sato
+Country: Japan
+City: Tokyo
+Gender: F
+GPA: 3.8
+
+Name: Juan Ramirez
+Country: Colombia
+City: BogotÃ¡
+Gender: M
+GPA: 3.9
+
+Name: Karla Hernandez
+Country: Mexico
+City: Guadalajara
+Gender: F
+GPA: 3.7
+
+Name: Meggan Smith
+Country: United States of America
+City: Los Angeles
+Gender: F
+GPA: 2.9
+
+Name: Maja Nicholson
+Country: United States of America
+City: Dallas
+Gender: F
+GPA: 3.4
+
+
+Name: Anna Kowalski
+Country: Poland
+City: Warsaw
+Gender: F
+GPA: 3.8
+
+Name: Emma Johnson
+Country: United States
+City: New York
+Gender: F
+GPA: 3.8
+
+Name: Pablo Fernandez
+Country: Spain
+City: Valencia
+Gender: M
+GPA: 3.6
+
+Name: Elena Ivanova
+Country: Russia
+City: Saint Petersburg
+Gender: F
+GPA: 3.7
+
+Name: David Weber
+Country: China
+City: Peking
+Gender: M
+GPA: 3.9
+
+Name: Edgar Sanchez
+Country: Mexico
+City: Tijuana
+Gender: M
+GPA: 3.7
+
+Name: Rochelle Johnson
+Country: United States of America
+City: Indianapolis
+Gender: F
+GPA: 3.4
+
+
+Name: Lee Chen
+Country: China
+City: Shanghai
+Gender: F
+GPA: 3.6
+
+Name: Sophia Lee
+Country: South Korea
+City: Seoul
+Gender: F
+GPA: 3.7
+
+Name: Andrei Kuznetsov
+Country: Russia
+City: Yekaterinburg
+Gender: M
+GPA: 3.4
+
+Name: Dmitry Ivanov
+Country: Russia
+City: St. Petersburg
+Gender: M
+GPA: 3.6
+
+Name: Abdallah Khattab
+Country: Egypt
+City: Mansoura
+Gender: M
+GPA: 3.3
+
+Name: Sophie Dubois
+Country: France
+City: Paris
+Gender: F
+GPA: 3.8
+
+Name: Juan Lopez
+Country: Colombia
+City: Bogota
+Gender: M
+GPA: 3.7
+
+Name: Emma Wilson
+Country: United Kingdom
+City: London
+Gender: F
+GPA: 3.8
+
+Name: Lucia Costa
+Country: Brazil
+City: Sao Paulo
+Gender: F
+GPA: 3.9
+
+Name: Alexei Petrov
+Country: Russia
+City: Novosibirsk
+Gender: M
+GPA: 3.4
+
+Name: Nour Alsharif
+Country: Jordan
+City: Amman
+Gender: F
+GPA: 3.5
+
+Name: Ahmed Elsayed
+Country: Egypt
+City: Alexandria
+Gender: M
+GPA: 3.6
+
+Name: Lauren Klocker
+Country: United States of America
+City: Los Angeles
+Gender: F
+GPA: 2.3
+
+Name: Lee Dong
+Country: Philippines
+City: Manila
+Gender: F
+GPA: 3.9
+
+
+Name: Juan Garcia
+Country: Mexico
+City: Mexico City
+Gender: M
+GPA: 3.7
+
+Name: Yuna Lee
+Country: South Korea
+City: Incheon
+Gender: F
+GPA: 3.6
+
+Name: Thiago Oliveira
+Country: Brazil
+City: SÃ£o Paulo
+Gender: M
+GPA: 3.3
+
+Name: Anna Kim
+Country: South Korea
+City: Busan
+Gender: F
+GPA: 3.3
+
+Name: Samantha Hicks
+Country: United States of America
+City: Santa Barbara
+Gender: F
+GPA: 3.7
+
+Name: Ericka Arreola
+Country: Mexico
+City: Mexico
+Gender: F
+GPA: 3.1
+
+Name: Preston Suarez
+Country: Japan
+City: Tokyo
+Gender: M
+GPA: 3.8
+
+
+Name: Alessia Bianchi
+Country: Italy
+City: Florence
+Gender: F
+GPA: 3.7
+
+Name: Sarah Smith
+Country: Canada
+City: Toronto
+Gender: F
+GPA: 3.8
+
+Name: Maria Santos
+Country: Portugal
+City: Lisbon
+Gender: F
+GPA: 3.5
+
+Name: Ahmed Abdelrahman
+Country: Egypt
+City: Giza
+Gender: M
+GPA: 3.6
+
+Name: Esra Ates
+Country: Turkey
+City: Ankara
+Gender: F
+GPA: 3.2
+
+Name: Jonas Hansen
+Country: Denmark
+City: Copenhagen
+Gender: M
+GPA: 3.8
+
+Name: Alina Petrova
+Country: Russia
+City: Moscow
+Gender: F
+GPA: 3.7
+
+Name: Taro Nakamura
+Country: Japan
+City: Osaka
+Gender: M
+GPA: 3.9
+
+Name: Dakota Wirth
+Country: United States of America
+City: Sacramento
+Gender: F
+GPA: 3.4
+
+Name: David Pulc
+Country: Canada
+City: Toronto
+Gender: M
+GPA: 3.9
+
+Name: Joey Abreu
+Country: China
+City: Shenyang
+Gender: M
+GPA: 3.7
+
+Name: Natasha Yarusso
+Country: United States of America
+City: Castro Valley
+Gender: F
+GPA: 3.3
+
+
+Name: Hiroshi Sato
+Country: Japan
+City: Tokyo
+Gender: M
+GPA: 3.8
+
+Name: Yuji Nakamura
+Country: Japan
+City: Osaka
+Gender: M
+GPA: 3.9
+
+Name: Fatima AlMansouri
+Country: United Arab Emirates
+City: Abu Dhabi
+Gender: F
+GPA: 3.7
+
+Name: Aya Hashimoto
+Country: Japan
+City: Kyoto
+Gender: F
+GPA: 3.9
+
+Name: Sophie Smith
+Country: United Kingdom
+City: Manchester
+Gender: F
+GPA: 3.4
+
+Name: Muhammad Abbas
+Country: Pakistan
+City: Karachi
+Gender: M
+GPA: 3.7
+
+Name: Natalie Wong
+Country: Hong Kong
+City: Hong Kong
+Gender: F
+GPA: 3.6
+
+Name: Emre Yilmaz
+Country: Turkey
+City: Istanbul
+Gender: M
+GPA: 3.5
+
+Name: Reilly Wagar
+Country: United States of America
+City: Modesto
+Gender: F
+GPA: 3.4
+
+Name: Sila Nguyen
+Country: China
+City: Hebi
+Gender: M
+GPA: 2.8
+
+Name: Sasha Jansen
+Country: United States of America
+City: Chicago
+Gender: F
+GPA: 1.7
+
+
+Name: Aisha Ali
+Country: United Arab Emirates
+City: Dubai
+Gender: F
+GPA: 3.5
+
+Name: Hassan Ali
+Country: Pakistan
+City: Islamabad
+Gender: M
+GPA: 3.2
+
+Name: Paulo Silva
+Country: Brazil
+City: Rio de Janeiro
+Gender: M
+GPA: 3.5
+
+Name: Hana Lee
+Country: South Korea
+City: Busan
+Gender: F
+GPA: 3.5
+
+Name: Ali Hassan
+Country: Pakistan
+City: Lahore
+Gender: M
+GPA: 3.2
+
+Name: Adrien Martin
+Country: France
+City: Paris
+Gender: M
+GPA: 3.9
+
+Name: Maya Patel
+Country: India
+City: New Delhi
+Gender: F
+GPA: 3.5
+
+Name: Rachel Jambor
+Country: United States of America
+City: Chicago
+Gender: F
+GPA: 3.6
+
+Name: Kolbi Strunk
+Country: United States of America
+City: Mission Viejo
+Gender: M
+GPA: 3.2
+
+Name: Alexander Sherman
+Country: United States of America
+City: Omaha
+Gender: M
+GPA: 3.8
+
+Name: Joshua Lonaker
+Country: United States of America
+City: Santa Clarita
+Gender: M
+GPA: 2.9
+
+
+Name: Pavel Novak
+Country: Czech Republic
+City: Prague
+Gender: M
+GPA: 3.6
+
+Name: Khaled AlSaad
+Country: Saudi Arabia
+City: Riyadh
+Gender: M
+GPA: 3.9
+
+Name: John Wilson
+Country: United States
+City: New York City
+Gender: M
+GPA: 3.4
+
+Name: Ying Liu
+Country: China
+City: Beijing
+Gender: F
+GPA: 3.9
+
+Name: Dmitry Popov
+Country: Russia
+City: Kazan
+Gender: M
+GPA: 3.4
+
+Name: Isabella Rossi
+Country: Italy
+City: Rome
+Gender: F
+GPA: 3.8
+
+Name: Maria Rodriguez
+Country: Spain
+City: Madrid
+Gender: F
+GPA: 3.9
+
+Name: Ahmed Khan
+Country: Pakistan
+City: Karachi
+Gender: M
+GPA: 3.4
+
+Name: Ivan Ivanov
+Country: Bulgaria
+City: Sofia
+Gender: M
+GPA: 3.6
+
+Name: Oliver Brown
+Country: United Kingdom
+City: Edinburgh
+Gender: M
+GPA: 3.5
+
+Name: Maria Fernandez
+Country: Mexico
+City: Mexico City
+Gender: F
+GPA: 3.7
+
+Name: Sara Gomez
+Country: Spain
+City: Barcelona
+Gender: F
+GPA: 3.2
+
+Name: Brandon Barbour
+Country: United States of America
+City: South Hill
+Gender: M
+GPA: 3.9
+
+Name: Angela Harding
+Country: United States of America
+City: Manteca
+Gender: F
+GPA: 3.1
+
+Name: Brittany Sath
+Country: Japan
+City: Tokyo
+Gender: F
+GPA: 4.0
+
+
+Name: Mohammed Abdelaziz
+Country: Egypt
+City: Cairo
+Gender: M
+GPA: 3.6
+
+Name: Ling Chen
+Country: China
+City: Shanghai
+Gender: F
+GPA: 3.9
+
+Name: Leila Bakir
+Country: Morocco
+City: Casablanca
+Gender: F
+GPA: 3.3
+
+Name: Brandon Lee
+Country: United States of America
+City: Los Angeles
+Gender: M
+GPA: 3.9
+
+Name: Marco Rossi
+Country: Italy
+City: Rome
+Gender: M
+GPA: 3.8
+
+Name: Victoria Ibarra
+Country: Dominican Republic
+City: Santo Domingo
+Gender: F
+GPA: 3.4
+
+Name: Rojesh Her
+Country: Japan
+City: Tokyo
+Gender: M
+GPA: 3.8
+
+Name: Kyle Luckey
+Country: United States of America
+City: Moreno Valley
+Gender: M
+GPA: 3.7
+
+
+Name: Alexei Ivanov
+Country: Russia
+City: Moscow
+Gender: M
+GPA: 3.9
+
+Name: Aleksandr Smirnov
+Country: Russia
+City: Moscow
+Gender: M
+GPA: 3.6
+
+Name: Ahmed Ali
+Country: Egypt
+City: Alexandria
+Gender: M
+GPA: 3.3
+
+Name: Maria Hernandez
+Country: Mexico
+City: Guadalajara
+Gender: F
+GPA: 3.5
+
+Name: David Kim
+Country: South Korea
+City: Seoul
+Gender: M
+GPA: 3.7
+
+Name: Sofia Torres
+Country: Argentina
+City: Buenos Aires
+Gender: F
+GPA: 3.5
+
+Name: Dakota Blanco
+Country: United States of America
+City: Oakland
+Gender: F
+GPA: 3.9
+
+
+
+Homework 6 Menu:
+~~~~~~~~~~~~~~~~
+1. Insert
+2. Delete
+3. Update
+4. Search
+5. Print
+6. Exit
+Enter your choice (1-6): 
+1 2
+
+-------------------
+Deletion selected.
+-------------------
+Enter the name:
+Sankalp Pandey
+Student not found
+
+Homework 6 Menu:
+~~~~~~~~~~~~~~~~
+1. Insert
+2. Delete
+3. Update
+4. Search
+5. Print
+6. Exit
+Enter your choice (1-6): 
+3
+
+-------------------
+Update selected.
+-------------------
+Enter the name:
+Sankalp Padney    ndey
+Student not found
+
+Homework 6 Menu:
+~~~~~~~~~~~~~~~~
+1. Insert
+2. Delete
+3. Update
+4. Search
+5. Print
+6. Exit
+Enter your choice (1-6): 
+4
+
+-------------------
+Search selected.
+-------------------
+Enter the name:
+Sankalp Pandey
+
+Student not found
+
+Homework 6 Menu:
+~~~~~~~~~~~~~~~~
+1. Insert
+2. Delete
+3. Update
+4. Search
+5. Print
+6. Exit
+Enter your choice (1-6): 
+1
+
+-------------------
+Insertion selected.
+-------------------
+Enter student name: Sankalp Pandey
+Enter country: India
+Enter city: Gwalior
+Enter gender: M
+Enter GPA: -5
+Enter a GPA higher than 0.
+Enter GPA: 1.5
+
+Homework 6 Menu:
+~~~~~~~~~~~~~~~~
+1. Insert
+2. Delete
+3. Update
+4. Search
+5. Print
+6. Exit
+Enter your choice (1-6): 
+4
+
+-------------------
+Search selected.
+-------------------
+Enter the name:
+Sankalp Pandey
+
+Name: Sankalp Pandey
+Country: India
+City: Gwalior
+Gender: M
+GPA: 1.5
+
+Homework 6 Menu:
+~~~~~~~~~~~~~~~~
+1. Insert
+2. Delete
+3. Update
+4. Search
+5. Print
+6. Exit
+Enter your choice (1-6): 
+5
+
+-------------------
+Print selected.
+-------------------
+
+Name: Luis Rodriguez
+Country: Spain
+City: Madrid
+Gender: M
+GPA: 3.5
+
+Name: Ivan Petrov
+Country: Bulgaria
+City: Plovdiv
+Gender: M
+GPA: 3.4
+
+Name: Kira Sato
+Country: Japan
+City: Tokyo
+Gender: F
+GPA: 3.8
+
+Name: Juan Ramirez
+Country: Colombia
+City: BogotÃ¡
+Gender: M
+GPA: 3.9
+
+Name: Karla Hernandez
+Country: Mexico
+City: Guadalajara
+Gender: F
+GPA: 3.7
+
+Name: Meggan Smith
+Country: United States of America
+City: Los Angeles
+Gender: F
+GPA: 2.9
+
+Name: Maja Nicholson
+Country: United States of America
+City: Dallas
+Gender: F
+GPA: 3.4
+
+
+Name: Anna Kowalski
+Country: Poland
+City: Warsaw
+Gender: F
+GPA: 3.8
+
+Name: Emma Johnson
+Country: United States
+City: New York
+Gender: F
+GPA: 3.8
+
+Name: Pablo Fernandez
+Country: Spain
+City: Valencia
+Gender: M
+GPA: 3.6
+
+Name: Elena Ivanova
+Country: Russia
+City: Saint Petersburg
+Gender: F
+GPA: 3.7
+
+Name: David Weber
+Country: China
+City: Peking
+Gender: M
+GPA: 3.9
+
+Name: Edgar Sanchez
+Country: Mexico
+City: Tijuana
+Gender: M
+GPA: 3.7
+
+Name: Rochelle Johnson
+Country: United States of America
+City: Indianapolis
+Gender: F
+GPA: 3.4
+
+
+Name: Lee Chen
+Country: China
+City: Shanghai
+Gender: F
+GPA: 3.6
+
+Name: Sophia Lee
+Country: South Korea
+City: Seoul
+Gender: F
+GPA: 3.7
+
+Name: Andrei Kuznetsov
+Country: Russia
+City: Yekaterinburg
+Gender: M
+GPA: 3.4
+
+Name: Dmitry Ivanov
+Country: Russia
+City: St. Petersburg
+Gender: M
+GPA: 3.6
+
+Name: Abdallah Khattab
+Country: Egypt
+City: Mansoura
+Gender: M
+GPA: 3.3
+
+Name: Sophie Dubois
+Country: France
+City: Paris
+Gender: F
+GPA: 3.8
+
+Name: Juan Lopez
+Country: Colombia
+City: Bogota
+Gender: M
+GPA: 3.7
+
+Name: Emma Wilson
+Country: United Kingdom
+City: London
+Gender: F
+GPA: 3.8
+
+Name: Lucia Costa
+Country: Brazil
+City: Sao Paulo
+Gender: F
+GPA: 3.9
+
+Name: Alexei Petrov
+Country: Russia
+City: Novosibirsk
+Gender: M
+GPA: 3.4
+
+Name: Nour Alsharif
+Country: Jordan
+City: Amman
+Gender: F
+GPA: 3.5
+
+Name: Ahmed Elsayed
+Country: Egypt
+City: Alexandria
+Gender: M
+GPA: 3.6
+
+Name: Lauren Klocker
+Country: United States of America
+City: Los Angeles
+Gender: F
+GPA: 2.3
+
+Name: Lee Dong
+Country: Philippines
+City: Manila
+Gender: F
+GPA: 3.9
+
+
+Name: Juan Garcia
+Country: Mexico
+City: Mexico City
+Gender: M
+GPA: 3.7
+
+Name: Yuna Lee
+Country: South Korea
+City: Incheon
+Gender: F
+GPA: 3.6
+
+Name: Thiago Oliveira
+Country: Brazil
+City: SÃ£o Paulo
+Gender: M
+GPA: 3.3
+
+Name: Anna Kim
+Country: South Korea
+City: Busan
+Gender: F
+GPA: 3.3
+
+Name: Samantha Hicks
+Country: United States of America
+City: Santa Barbara
+Gender: F
+GPA: 3.7
+
+Name: Ericka Arreola
+Country: Mexico
+City: Mexico
+Gender: F
+GPA: 3.1
+
+Name: Preston Suarez
+Country: Japan
+City: Tokyo
+Gender: M
+GPA: 3.8
+
+
+Name: Alessia Bianchi
+Country: Italy
+City: Florence
+Gender: F
+GPA: 3.7
+
+Name: Sarah Smith
+Country: Canada
+City: Toronto
+Gender: F
+GPA: 3.8
+
+Name: Maria Santos
+Country: Portugal
+City: Lisbon
+Gender: F
+GPA: 3.5
+
+Name: Ahmed Abdelrahman
+Country: Egypt
+City: Giza
+Gender: M
+GPA: 3.6
+
+Name: Esra Ates
+Country: Turkey
+City: Ankara
+Gender: F
+GPA: 3.2
+
+Name: Jonas Hansen
+Country: Denmark
+City: Copenhagen
+Gender: M
+GPA: 3.8
+
+Name: Alina Petrova
+Country: Russia
+City: Moscow
+Gender: F
+GPA: 3.7
+
+Name: Taro Nakamura
+Country: Japan
+City: Osaka
+Gender: M
+GPA: 3.9
+
+Name: Dakota Wirth
+Country: United States of America
+City: Sacramento
+Gender: F
+GPA: 3.4
+
+Name: David Pulc
+Country: Canada
+City: Toronto
+Gender: M
+GPA: 3.9
+
+Name: Joey Abreu
+Country: China
+City: Shenyang
+Gender: M
+GPA: 3.7
+
+Name: Natasha Yarusso
+Country: United States of America
+City: Castro Valley
+Gender: F
+GPA: 3.3
+
+
+Name: Sankalp Pandey
+Country: India
+City: Gwalior
+Gender: M
+GPA: 1.5
+
+Name: Hiroshi Sato
+Country: Japan
+City: Tokyo
+Gender: M
+GPA: 3.8
+
+Name: Yuji Nakamura
+Country: Japan
+City: Osaka
+Gender: M
+GPA: 3.9
+
+Name: Fatima AlMansouri
+Country: United Arab Emirates
+City: Abu Dhabi
+Gender: F
+GPA: 3.7
+
+Name: Aya Hashimoto
+Country: Japan
+City: Kyoto
+Gender: F
+GPA: 3.9
+
+Name: Sophie Smith
+Country: United Kingdom
+City: Manchester
+Gender: F
+GPA: 3.4
+
+Name: Muhammad Abbas
+Country: Pakistan
+City: Karachi
+Gender: M
+GPA: 3.7
+
+Name: Natalie Wong
+Country: Hong Kong
+City: Hong Kong
+Gender: F
+GPA: 3.6
+
+Name: Emre Yilmaz
+Country: Turkey
+City: Istanbul
+Gender: M
+GPA: 3.5
+
+Name: Reilly Wagar
+Country: United States of America
+City: Modesto
+Gender: F
+GPA: 3.4
+
+Name: Sila Nguyen
+Country: China
+City: Hebi
+Gender: M
+GPA: 2.8
+
+Name: Sasha Jansen
+Country: United States of America
+City: Chicago
+Gender: F
+GPA: 1.7
+
+
+Name: Aisha Ali
+Country: United Arab Emirates
+City: Dubai
+Gender: F
+GPA: 3.5
+
+Name: Hassan Ali
+Country: Pakistan
+City: Islamabad
+Gender: M
+GPA: 3.2
+
+Name: Paulo Silva
+Country: Brazil
+City: Rio de Janeiro
+Gender: M
+GPA: 3.5
+
+Name: Hana Lee
+Country: South Korea
+City: Busan
+Gender: F
+GPA: 3.5
+
+Name: Ali Hassan
+Country: Pakistan
+City: Lahore
+Gender: M
+GPA: 3.2
+
+Name: Adrien Martin
+Country: France
+City: Paris
+Gender: M
+GPA: 3.9
+
+Name: Maya Patel
+Country: India
+City: New Delhi
+Gender: F
+GPA: 3.5
+
+Name: Rachel Jambor
+Country: United States of America
+City: Chicago
+Gender: F
+GPA: 3.6
+
+Name: Kolbi Strunk
+Country: United States of America
+City: Mission Viejo
+Gender: M
+GPA: 3.2
+
+Name: Alexander Sherman
+Country: United States of America
+City: Omaha
+Gender: M
+GPA: 3.8
+
+Name: Joshua Lonaker
+Country: United States of America
+City: Santa Clarita
+Gender: M
+GPA: 2.9
+
+
+Name: Pavel Novak
+Country: Czech Republic
+City: Prague
+Gender: M
+GPA: 3.6
+
+Name: Khaled AlSaad
+Country: Saudi Arabia
+City: Riyadh
+Gender: M
+GPA: 3.9
+
+Name: John Wilson
+Country: United States
+City: New York City
+Gender: M
+GPA: 3.4
+
+Name: Ying Liu
+Country: China
+City: Beijing
+Gender: F
+GPA: 3.9
+
+Name: Dmitry Popov
+Country: Russia
+City: Kazan
+Gender: M
+GPA: 3.4
+
+Name: Isabella Rossi
+Country: Italy
+City: Rome
+Gender: F
+GPA: 3.8
+
+Name: Maria Rodriguez
+Country: Spain
+City: Madrid
+Gender: F
+GPA: 3.9
+
+Name: Ahmed Khan
+Country: Pakistan
+City: Karachi
+Gender: M
+GPA: 3.4
+
+Name: Ivan Ivanov
+Country: Bulgaria
+City: Sofia
+Gender: M
+GPA: 3.6
+
+Name: Oliver Brown
+Country: United Kingdom
+City: Edinburgh
+Gender: M
+GPA: 3.5
+
+Name: Maria Fernandez
+Country: Mexico
+City: Mexico City
+Gender: F
+GPA: 3.7
+
+Name: Sara Gomez
+Country: Spain
+City: Barcelona
+Gender: F
+GPA: 3.2
+
+Name: Brandon Barbour
+Country: United States of America
+City: South Hill
+Gender: M
+GPA: 3.9
+
+Name: Angela Harding
+Country: United States of America
+City: Manteca
+Gender: F
+GPA: 3.1
+
+Name: Brittany Sath
+Country: Japan
+City: Tokyo
+Gender: F
+GPA: 4.0
+
+
+Name: Mohammed Abdelaziz
+Country: Egypt
+City: Cairo
+Gender: M
+GPA: 3.6
+
+Name: Ling Chen
+Country: China
+City: Shanghai
+Gender: F
+GPA: 3.9
+
+Name: Leila Bakir
+Country: Morocco
+City: Casablanca
+Gender: F
+GPA: 3.3
+
+Name: Brandon Lee
+Country: United States of America
+City: Los Angeles
+Gender: M
+GPA: 3.9
+
+Name: Marco Rossi
+Country: Italy
+City: Rome
+Gender: M
+GPA: 3.8
+
+Name: Victoria Ibarra
+Country: Dominican Republic
+City: Santo Domingo
+Gender: F
+GPA: 3.4
+
+Name: Rojesh Her
+Country: Japan
+City: Tokyo
+Gender: M
+GPA: 3.8
+
+Name: Kyle Luckey
+Country: United States of America
+City: Moreno Valley
+Gender: M
+GPA: 3.7
+
+
+Name: Alexei Ivanov
+Country: Russia
+City: Moscow
+Gender: M
+GPA: 3.9
+
+Name: Aleksandr Smirnov
+Country: Russia
+City: Moscow
+Gender: M
+GPA: 3.6
+
+Name: Ahmed Ali
+Country: Egypt
+City: Alexandria
+Gender: M
+GPA: 3.3
+
+Name: Maria Hernandez
+Country: Mexico
+City: Guadalajara
+Gender: F
+GPA: 3.5
+
+Name: David Kim
+Country: South Korea
+City: Seoul
+Gender: M
+GPA: 3.7
+
+Name: Sofia Torres
+Country: Argentina
+City: Buenos Aires
+Gender: F
+GPA: 3.5
+
+Name: Dakota Blanco
+Country: United States of America
+City: Oakland
+Gender: F
+GPA: 3.9
+
+
+
+Homework 6 Menu:
+~~~~~~~~~~~~~~~~
+1. Insert
+2. Delete
+3. Update
+4. Search
+5. Print
+6. Exit
+Enter your choice (1-6): 
+3 3
+
+-------------------
+Update selected.
+-------------------
+Enter the name:
+Sankalp Pandey
+Enter country: United States of America
+Enter city: Bentonville
+Enter gender: M
+Enter GPA: 4
+
+Homework 6 Menu:
+~~~~~~~~~~~~~~~~
+1. Insert
+2. Delete
+3. Update
+4. Search
+5. Print
+6. Exit
+Enter your choice (1-6): 
+4
+
+-------------------
+Search selected.
+-------------------
+Enter the name:
+Sankalp Pandey
+
+Name: Sankalp Pandey
+Country: United States of America
+City: Bentonville
+Gender: M
+GPA: 4.0
+
+Homework 6 Menu:
+~~~~~~~~~~~~~~~~
+1. Insert
+2. Delete
+3. Update
+4. Search
+5. Print
+6. Exit
+Enter your choice (1-6): 
+5
+
+-------------------
+Print selected.
+-------------------
+
+Name: Luis Rodriguez
+Country: Spain
+City: Madrid
+Gender: M
+GPA: 3.5
+
+Name: Ivan Petrov
+Country: Bulgaria
+City: Plovdiv
+Gender: M
+GPA: 3.4
+
+Name: Kira Sato
+Country: Japan
+City: Tokyo
+Gender: F
+GPA: 3.8
+
+Name: Juan Ramirez
+Country: Colombia
+City: BogotÃ¡
+Gender: M
+GPA: 3.9
+
+Name: Karla Hernandez
+Country: Mexico
+City: Guadalajara
+Gender: F
+GPA: 3.7
+
+Name: Meggan Smith
+Country: United States of America
+City: Los Angeles
+Gender: F
+GPA: 2.9
+
+Name: Maja Nicholson
+Country: United States of America
+City: Dallas
+Gender: F
+GPA: 3.4
+
+
+Name: Anna Kowalski
+Country: Poland
+City: Warsaw
+Gender: F
+GPA: 3.8
+
+Name: Emma Johnson
+Country: United States
+City: New York
+Gender: F
+GPA: 3.8
+
+Name: Pablo Fernandez
+Country: Spain
+City: Valencia
+Gender: M
+GPA: 3.6
+
+Name: Elena Ivanova
+Country: Russia
+City: Saint Petersburg
+Gender: F
+GPA: 3.7
+
+Name: David Weber
+Country: China
+City: Peking
+Gender: M
+GPA: 3.9
+
+Name: Edgar Sanchez
+Country: Mexico
+City: Tijuana
+Gender: M
+GPA: 3.7
+
+Name: Rochelle Johnson
+Country: United States of America
+City: Indianapolis
+Gender: F
+GPA: 3.4
+
+
+Name: Lee Chen
+Country: China
+City: Shanghai
+Gender: F
+GPA: 3.6
+
+Name: Sophia Lee
+Country: South Korea
+City: Seoul
+Gender: F
+GPA: 3.7
+
+Name: Andrei Kuznetsov
+Country: Russia
+City: Yekaterinburg
+Gender: M
+GPA: 3.4
+
+Name: Dmitry Ivanov
+Country: Russia
+City: St. Petersburg
+Gender: M
+GPA: 3.6
+
+Name: Abdallah Khattab
+Country: Egypt
+City: Mansoura
+Gender: M
+GPA: 3.3
+
+Name: Sophie Dubois
+Country: France
+City: Paris
+Gender: F
+GPA: 3.8
+
+Name: Juan Lopez
+Country: Colombia
+City: Bogota
+Gender: M
+GPA: 3.7
+
+Name: Emma Wilson
+Country: United Kingdom
+City: London
+Gender: F
+GPA: 3.8
+
+Name: Lucia Costa
+Country: Brazil
+City: Sao Paulo
+Gender: F
+GPA: 3.9
+
+Name: Alexei Petrov
+Country: Russia
+City: Novosibirsk
+Gender: M
+GPA: 3.4
+
+Name: Nour Alsharif
+Country: Jordan
+City: Amman
+Gender: F
+GPA: 3.5
+
+Name: Ahmed Elsayed
+Country: Egypt
+City: Alexandria
+Gender: M
+GPA: 3.6
+
+Name: Lauren Klocker
+Country: United States of America
+City: Los Angeles
+Gender: F
+GPA: 2.3
+
+Name: Lee Dong
+Country: Philippines
+City: Manila
+Gender: F
+GPA: 3.9
+
+
+Name: Juan Garcia
+Country: Mexico
+City: Mexico City
+Gender: M
+GPA: 3.7
+
+Name: Yuna Lee
+Country: South Korea
+City: Incheon
+Gender: F
+GPA: 3.6
+
+Name: Thiago Oliveira
+Country: Brazil
+City: SÃ£o Paulo
+Gender: M
+GPA: 3.3
+
+Name: Anna Kim
+Country: South Korea
+City: Busan
+Gender: F
+GPA: 3.3
+
+Name: Samantha Hicks
+Country: United States of America
+City: Santa Barbara
+Gender: F
+GPA: 3.7
+
+Name: Ericka Arreola
+Country: Mexico
+City: Mexico
+Gender: F
+GPA: 3.1
+
+Name: Preston Suarez
+Country: Japan
+City: Tokyo
+Gender: M
+GPA: 3.8
+
+
+Name: Alessia Bianchi
+Country: Italy
+City: Florence
+Gender: F
+GPA: 3.7
+
+Name: Sarah Smith
+Country: Canada
+City: Toronto
+Gender: F
+GPA: 3.8
+
+Name: Maria Santos
+Country: Portugal
+City: Lisbon
+Gender: F
+GPA: 3.5
+
+Name: Ahmed Abdelrahman
+Country: Egypt
+City: Giza
+Gender: M
+GPA: 3.6
+
+Name: Esra Ates
+Country: Turkey
+City: Ankara
+Gender: F
+GPA: 3.2
+
+Name: Jonas Hansen
+Country: Denmark
+City: Copenhagen
+Gender: M
+GPA: 3.8
+
+Name: Alina Petrova
+Country: Russia
+City: Moscow
+Gender: F
+GPA: 3.7
+
+Name: Taro Nakamura
+Country: Japan
+City: Osaka
+Gender: M
+GPA: 3.9
+
+Name: Dakota Wirth
+Country: United States of America
+City: Sacramento
+Gender: F
+GPA: 3.4
+
+Name: David Pulc
+Country: Canada
+City: Toronto
+Gender: M
+GPA: 3.9
+
+Name: Joey Abreu
+Country: China
+City: Shenyang
+Gender: M
+GPA: 3.7
+
+Name: Natasha Yarusso
+Country: United States of America
+City: Castro Valley
+Gender: F
+GPA: 3.3
+
+
+Name: Sankalp Pandey
+Country: United States of America
+City: Bentonville
+Gender: M
+GPA: 4.0
+
+Name: Hiroshi Sato
+Country: Japan
+City: Tokyo
+Gender: M
+GPA: 3.8
+
+Name: Yuji Nakamura
+Country: Japan
+City: Osaka
+Gender: M
+GPA: 3.9
+
+Name: Fatima AlMansouri
+Country: United Arab Emirates
+City: Abu Dhabi
+Gender: F
+GPA: 3.7
+
+Name: Aya Hashimoto
+Country: Japan
+City: Kyoto
+Gender: F
+GPA: 3.9
+
+Name: Sophie Smith
+Country: United Kingdom
+City: Manchester
+Gender: F
+GPA: 3.4
+
+Name: Muhammad Abbas
+Country: Pakistan
+City: Karachi
+Gender: M
+GPA: 3.7
+
+Name: Natalie Wong
+Country: Hong Kong
+City: Hong Kong
+Gender: F
+GPA: 3.6
+
+Name: Emre Yilmaz
+Country: Turkey
+City: Istanbul
+Gender: M
+GPA: 3.5
+
+Name: Reilly Wagar
+Country: United States of America
+City: Modesto
+Gender: F
+GPA: 3.4
+
+Name: Sila Nguyen
+Country: China
+City: Hebi
+Gender: M
+GPA: 2.8
+
+Name: Sasha Jansen
+Country: United States of America
+City: Chicago
+Gender: F
+GPA: 1.7
+
+
+Name: Aisha Ali
+Country: United Arab Emirates
+City: Dubai
+Gender: F
+GPA: 3.5
+
+Name: Hassan Ali
+Country: Pakistan
+City: Islamabad
+Gender: M
+GPA: 3.2
+
+Name: Paulo Silva
+Country: Brazil
+City: Rio de Janeiro
+Gender: M
+GPA: 3.5
+
+Name: Hana Lee
+Country: South Korea
+City: Busan
+Gender: F
+GPA: 3.5
+
+Name: Ali Hassan
+Country: Pakistan
+City: Lahore
+Gender: M
+GPA: 3.2
+
+Name: Adrien Martin
+Country: France
+City: Paris
+Gender: M
+GPA: 3.9
+
+Name: Maya Patel
+Country: India
+City: New Delhi
+Gender: F
+GPA: 3.5
+
+Name: Rachel Jambor
+Country: United States of America
+City: Chicago
+Gender: F
+GPA: 3.6
+
+Name: Kolbi Strunk
+Country: United States of America
+City: Mission Viejo
+Gender: M
+GPA: 3.2
+
+Name: Alexander Sherman
+Country: United States of America
+City: Omaha
+Gender: M
+GPA: 3.8
+
+Name: Joshua Lonaker
+Country: United States of America
+City: Santa Clarita
+Gender: M
+GPA: 2.9
+
+
+Name: Pavel Novak
+Country: Czech Republic
+City: Prague
+Gender: M
+GPA: 3.6
+
+Name: Khaled AlSaad
+Country: Saudi Arabia
+City: Riyadh
+Gender: M
+GPA: 3.9
+
+Name: John Wilson
+Country: United States
+City: New York City
+Gender: M
+GPA: 3.4
+
+Name: Ying Liu
+Country: China
+City: Beijing
+Gender: F
+GPA: 3.9
+
+Name: Dmitry Popov
+Country: Russia
+City: Kazan
+Gender: M
+GPA: 3.4
+
+Name: Isabella Rossi
+Country: Italy
+City: Rome
+Gender: F
+GPA: 3.8
+
+Name: Maria Rodriguez
+Country: Spain
+City: Madrid
+Gender: F
+GPA: 3.9
+
+Name: Ahmed Khan
+Country: Pakistan
+City: Karachi
+Gender: M
+GPA: 3.4
+
+Name: Ivan Ivanov
+Country: Bulgaria
+City: Sofia
+Gender: M
+GPA: 3.6
+
+Name: Oliver Brown
+Country: United Kingdom
+City: Edinburgh
+Gender: M
+GPA: 3.5
+
+Name: Maria Fernandez
+Country: Mexico
+City: Mexico City
+Gender: F
+GPA: 3.7
+
+Name: Sara Gomez
+Country: Spain
+City: Barcelona
+Gender: F
+GPA: 3.2
+
+Name: Brandon Barbour
+Country: United States of America
+City: South Hill
+Gender: M
+GPA: 3.9
+
+Name: Angela Harding
+Country: United States of America
+City: Manteca
+Gender: F
+GPA: 3.1
+
+Name: Brittany Sath
+Country: Japan
+City: Tokyo
+Gender: F
+GPA: 4.0
+
+
+Name: Mohammed Abdelaziz
+Country: Egypt
+City: Cairo
+Gender: M
+GPA: 3.6
+
+Name: Ling Chen
+Country: China
+City: Shanghai
+Gender: F
+GPA: 3.9
+
+Name: Leila Bakir
+Country: Morocco
+City: Casablanca
+Gender: F
+GPA: 3.3
+
+Name: Brandon Lee
+Country: United States of America
+City: Los Angeles
+Gender: M
+GPA: 3.9
+
+Name: Marco Rossi
+Country: Italy
+City: Rome
+Gender: M
+GPA: 3.8
+
+Name: Victoria Ibarra
+Country: Dominican Republic
+City: Santo Domingo
+Gender: F
+GPA: 3.4
+
+Name: Rojesh Her
+Country: Japan
+City: Tokyo
+Gender: M
+GPA: 3.8
+
+Name: Kyle Luckey
+Country: United States of America
+City: Moreno Valley
+Gender: M
+GPA: 3.7
+
+
+Name: Alexei Ivanov
+Country: Russia
+City: Moscow
+Gender: M
+GPA: 3.9
+
+Name: Aleksandr Smirnov
+Country: Russia
+City: Moscow
+Gender: M
+GPA: 3.6
+
+Name: Ahmed Ali
+Country: Egypt
+City: Alexandria
+Gender: M
+GPA: 3.3
+
+Name: Maria Hernandez
+Country: Mexico
+City: Guadalajara
+Gender: F
+GPA: 3.5
+
+Name: David Kim
+Country: South Korea
+City: Seoul
+Gender: M
+GPA: 3.7
+
+Name: Sofia Torres
+Country: Argentina
+City: Buenos Aires
+Gender: F
+GPA: 3.5
+
+Name: Dakota Blanco
+Country: United States of America
+City: Oakland
+Gender: F
+GPA: 3.9
+
+
+
+Homework 6 Menu:
+~~~~~~~~~~~~~~~~
+1. Insert
+2. Delete
+3. Update
+4. Search
+5. Print
+6. Exit
+Enter your choice (1-6): 
+2
+
+-------------------
+Deletion selected.
+-------------------
+Enter the name:
+Sankalp Pandey
+
+Homework 6 Menu:
+~~~~~~~~~~~~~~~~
+1. Insert
+2. Delete
+3. Update
+4. Search
+5. Print
+6. Exit
+Enter your choice (1-6): 
+3
+
+-------------------
+Update selected.
+-------------------
+Enter the name:
+Sankalp Pandey
+Student not found
+
+Homework 6 Menu:
+~~~~~~~~~~~~~~~~
+1. Insert
+2. Delete
+3. Update
+4. Search
+5. Print
+6. Exit
+Enter your choice (1-6): 
+4
+
+-------------------
+Search selected.
+-------------------
+Enter the name:
+Sankalp Pandey
+
+Student not found
+
+Homework 6 Menu:
+~~~~~~~~~~~~~~~~
+1. Insert
+2. Delete
+3. Update
+4. Search
+5. Print
+6. Exit
+Enter your choice (1-6): 
+5
+
+-------------------
+Print selected.
+-------------------
+
+Name: Luis Rodriguez
+Country: Spain
+City: Madrid
+Gender: M
+GPA: 3.5
+
+Name: Ivan Petrov
+Country: Bulgaria
+City: Plovdiv
+Gender: M
+GPA: 3.4
+
+Name: Kira Sato
+Country: Japan
+City: Tokyo
+Gender: F
+GPA: 3.8
+
+Name: Juan Ramirez
+Country: Colombia
+City: BogotÃ¡
+Gender: M
+GPA: 3.9
+
+Name: Karla Hernandez
+Country: Mexico
+City: Guadalajara
+Gender: F
+GPA: 3.7
+
+Name: Meggan Smith
+Country: United States of America
+City: Los Angeles
+Gender: F
+GPA: 2.9
+
+Name: Maja Nicholson
+Country: United States of America
+City: Dallas
+Gender: F
+GPA: 3.4
+
+
+Name: Anna Kowalski
+Country: Poland
+City: Warsaw
+Gender: F
+GPA: 3.8
+
+Name: Emma Johnson
+Country: United States
+City: New York
+Gender: F
+GPA: 3.8
+
+Name: Pablo Fernandez
+Country: Spain
+City: Valencia
+Gender: M
+GPA: 3.6
+
+Name: Elena Ivanova
+Country: Russia
+City: Saint Petersburg
+Gender: F
+GPA: 3.7
+
+Name: David Weber
+Country: China
+City: Peking
+Gender: M
+GPA: 3.9
+
+Name: Edgar Sanchez
+Country: Mexico
+City: Tijuana
+Gender: M
+GPA: 3.7
+
+Name: Rochelle Johnson
+Country: United States of America
+City: Indianapolis
+Gender: F
+GPA: 3.4
+
+
+Name: Lee Chen
+Country: China
+City: Shanghai
+Gender: F
+GPA: 3.6
+
+Name: Sophia Lee
+Country: South Korea
+City: Seoul
+Gender: F
+GPA: 3.7
+
+Name: Andrei Kuznetsov
+Country: Russia
+City: Yekaterinburg
+Gender: M
+GPA: 3.4
+
+Name: Dmitry Ivanov
+Country: Russia
+City: St. Petersburg
+Gender: M
+GPA: 3.6
+
+Name: Abdallah Khattab
+Country: Egypt
+City: Mansoura
+Gender: M
+GPA: 3.3
+
+Name: Sophie Dubois
+Country: France
+City: Paris
+Gender: F
+GPA: 3.8
+
+Name: Juan Lopez
+Country: Colombia
+City: Bogota
+Gender: M
+GPA: 3.7
+
+Name: Emma Wilson
+Country: United Kingdom
+City: London
+Gender: F
+GPA: 3.8
+
+Name: Lucia Costa
+Country: Brazil
+City: Sao Paulo
+Gender: F
+GPA: 3.9
+
+Name: Alexei Petrov
+Country: Russia
+City: Novosibirsk
+Gender: M
+GPA: 3.4
+
+Name: Nour Alsharif
+Country: Jordan
+City: Amman
+Gender: F
+GPA: 3.5
+
+Name: Ahmed Elsayed
+Country: Egypt
+City: Alexandria
+Gender: M
+GPA: 3.6
+
+Name: Lauren Klocker
+Country: United States of America
+City: Los Angeles
+Gender: F
+GPA: 2.3
+
+Name: Lee Dong
+Country: Philippines
+City: Manila
+Gender: F
+GPA: 3.9
+
+
+Name: Juan Garcia
+Country: Mexico
+City: Mexico City
+Gender: M
+GPA: 3.7
+
+Name: Yuna Lee
+Country: South Korea
+City: Incheon
+Gender: F
+GPA: 3.6
+
+Name: Thiago Oliveira
+Country: Brazil
+City: SÃ£o Paulo
+Gender: M
+GPA: 3.3
+
+Name: Anna Kim
+Country: South Korea
+City: Busan
+Gender: F
+GPA: 3.3
+
+Name: Samantha Hicks
+Country: United States of America
+City: Santa Barbara
+Gender: F
+GPA: 3.7
+
+Name: Ericka Arreola
+Country: Mexico
+City: Mexico
+Gender: F
+GPA: 3.1
+
+Name: Preston Suarez
+Country: Japan
+City: Tokyo
+Gender: M
+GPA: 3.8
+
+
+Name: Alessia Bianchi
+Country: Italy
+City: Florence
+Gender: F
+GPA: 3.7
+
+Name: Sarah Smith
+Country: Canada
+City: Toronto
+Gender: F
+GPA: 3.8
+
+Name: Maria Santos
+Country: Portugal
+City: Lisbon
+Gender: F
+GPA: 3.5
+
+Name: Ahmed Abdelrahman
+Country: Egypt
+City: Giza
+Gender: M
+GPA: 3.6
+
+Name: Esra Ates
+Country: Turkey
+City: Ankara
+Gender: F
+GPA: 3.2
+
+Name: Jonas Hansen
+Country: Denmark
+City: Copenhagen
+Gender: M
+GPA: 3.8
+
+Name: Alina Petrova
+Country: Russia
+City: Moscow
+Gender: F
+GPA: 3.7
+
+Name: Taro Nakamura
+Country: Japan
+City: Osaka
+Gender: M
+GPA: 3.9
+
+Name: Dakota Wirth
+Country: United States of America
+City: Sacramento
+Gender: F
+GPA: 3.4
+
+Name: David Pulc
+Country: Canada
+City: Toronto
+Gender: M
+GPA: 3.9
+
+Name: Joey Abreu
+Country: China
+City: Shenyang
+Gender: M
+GPA: 3.7
+
+Name: Natasha Yarusso
+Country: United States of America
+City: Castro Valley
+Gender: F
+GPA: 3.3
+
+
+Name: Hiroshi Sato
+Country: Japan
+City: Tokyo
+Gender: M
+GPA: 3.8
+
+Name: Yuji Nakamura
+Country: Japan
+City: Osaka
+Gender: M
+GPA: 3.9
+
+Name: Fatima AlMansouri
+Country: United Arab Emirates
+City: Abu Dhabi
+Gender: F
+GPA: 3.7
+
+Name: Aya Hashimoto
+Country: Japan
+City: Kyoto
+Gender: F
+GPA: 3.9
+
+Name: Sophie Smith
+Country: United Kingdom
+City: Manchester
+Gender: F
+GPA: 3.4
+
+Name: Muhammad Abbas
+Country: Pakistan
+City: Karachi
+Gender: M
+GPA: 3.7
+
+Name: Natalie Wong
+Country: Hong Kong
+City: Hong Kong
+Gender: F
+GPA: 3.6
+
+Name: Emre Yilmaz
+Country: Turkey
+City: Istanbul
+Gender: M
+GPA: 3.5
+
+Name: Reilly Wagar
+Country: United States of America
+City: Modesto
+Gender: F
+GPA: 3.4
+
+Name: Sila Nguyen
+Country: China
+City: Hebi
+Gender: M
+GPA: 2.8
+
+Name: Sasha Jansen
+Country: United States of America
+City: Chicago
+Gender: F
+GPA: 1.7
+
+
+Name: Aisha Ali
+Country: United Arab Emirates
+City: Dubai
+Gender: F
+GPA: 3.5
+
+Name: Hassan Ali
+Country: Pakistan
+City: Islamabad
+Gender: M
+GPA: 3.2
+
+Name: Paulo Silva
+Country: Brazil
+City: Rio de Janeiro
+Gender: M
+GPA: 3.5
+
+Name: Hana Lee
+Country: South Korea
+City: Busan
+Gender: F
+GPA: 3.5
+
+Name: Ali Hassan
+Country: Pakistan
+City: Lahore
+Gender: M
+GPA: 3.2
+
+Name: Adrien Martin
+Country: France
+City: Paris
+Gender: M
+GPA: 3.9
+
+Name: Maya Patel
+Country: India
+City: New Delhi
+Gender: F
+GPA: 3.5
+
+Name: Rachel Jambor
+Country: United States of America
+City: Chicago
+Gender: F
+GPA: 3.6
+
+Name: Kolbi Strunk
+Country: United States of America
+City: Mission Viejo
+Gender: M
+GPA: 3.2
+
+Name: Alexander Sherman
+Country: United States of America
+City: Omaha
+Gender: M
+GPA: 3.8
+
+Name: Joshua Lonaker
+Country: United States of America
+City: Santa Clarita
+Gender: M
+GPA: 2.9
+
+
+Name: Pavel Novak
+Country: Czech Republic
+City: Prague
+Gender: M
+GPA: 3.6
+
+Name: Khaled AlSaad
+Country: Saudi Arabia
+City: Riyadh
+Gender: M
+GPA: 3.9
+
+Name: John Wilson
+Country: United States
+City: New York City
+Gender: M
+GPA: 3.4
+
+Name: Ying Liu
+Country: China
+City: Beijing
+Gender: F
+GPA: 3.9
+
+Name: Dmitry Popov
+Country: Russia
+City: Kazan
+Gender: M
+GPA: 3.4
+
+Name: Isabella Rossi
+Country: Italy
+City: Rome
+Gender: F
+GPA: 3.8
+
+Name: Maria Rodriguez
+Country: Spain
+City: Madrid
+Gender: F
+GPA: 3.9
+
+Name: Ahmed Khan
+Country: Pakistan
+City: Karachi
+Gender: M
+GPA: 3.4
+
+Name: Ivan Ivanov
+Country: Bulgaria
+City: Sofia
+Gender: M
+GPA: 3.6
+
+Name: Oliver Brown
+Country: United Kingdom
+City: Edinburgh
+Gender: M
+GPA: 3.5
+
+Name: Maria Fernandez
+Country: Mexico
+City: Mexico City
+Gender: F
+GPA: 3.7
+
+Name: Sara Gomez
+Country: Spain
+City: Barcelona
+Gender: F
+GPA: 3.2
+
+Name: Brandon Barbour
+Country: United States of America
+City: South Hill
+Gender: M
+GPA: 3.9
+
+Name: Angela Harding
+Country: United States of America
+City: Manteca
+Gender: F
+GPA: 3.1
+
+Name: Brittany Sath
+Country: Japan
+City: Tokyo
+Gender: F
+GPA: 4.0
+
+
+Name: Mohammed Abdelaziz
+Country: Egypt
+City: Cairo
+Gender: M
+GPA: 3.6
+
+Name: Ling Chen
+Country: China
+City: Shanghai
+Gender: F
+GPA: 3.9
+
+Name: Leila Bakir
+Country: Morocco
+City: Casablanca
+Gender: F
+GPA: 3.3
+
+Name: Brandon Lee
+Country: United States of America
+City: Los Angeles
+Gender: M
+GPA: 3.9
+
+Name: Marco Rossi
+Country: Italy
+City: Rome
+Gender: M
+GPA: 3.8
+
+Name: Victoria Ibarra
+Country: Dominican Republic
+City: Santo Domingo
+Gender: F
+GPA: 3.4
+
+Name: Rojesh Her
+Country: Japan
+City: Tokyo
+Gender: M
+GPA: 3.8
+
+Name: Kyle Luckey
+Country: United States of America
+City: Moreno Valley
+Gender: M
+GPA: 3.7
+
+
+Name: Alexei Ivanov
+Country: Russia
+City: Moscow
+Gender: M
+GPA: 3.9
+
+Name: Aleksandr Smirnov
+Country: Russia
+City: Moscow
+Gender: M
+GPA: 3.6
+
+Name: Ahmed Ali
+Country: Egypt
+City: Alexandria
+Gender: M
+GPA: 3.3
+
+Name: Maria Hernandez
+Country: Mexico
+City: Guadalajara
+Gender: F
+GPA: 3.5
+
+Name: David Kim
+Country: South Korea
+City: Seoul
+Gender: M
+GPA: 3.7
+
+Name: Sofia Torres
+Country: Argentina
+City: Buenos Aires
+Gender: F
+GPA: 3.5
+
+Name: Dakota Blanco
+Country: United States of America
+City: Oakland
+Gender: F
+GPA: 3.9
+
+
+
+Homework 6 Menu:
+~~~~~~~~~~~~~~~~
+1. Insert
+2. Delete
+3. Update
+4. Search
+5. Print
+6. Exit
+Enter your choice (1-6): 
+6 2
+
+-------------------
+Deletion selected.
+-------------------
+Enter the name:
+Dakota Blanco
+
+Homework 6 Menu:
+~~~~~~~~~~~~~~~~
+1. Insert
+2. Delete
+3. Update
+4. Search
+5. Print
+6. Exit
+Enter your choice (1-6): 
+5 4
+
+-------------------
+Search selected.
+-------------------
+Enter the name:
+Dakota Blacn  nco
+
+Student not found
+
+Homework 6 Menu:
+~~~~~~~~~~~~~~~~
+1. Insert
+2. Delete
+3. Update
+4. Search
+5. Print
+6. Exit
+Enter your choice (1-6): 
+5
+
+-------------------
+Print selected.
+-------------------
+
+Name: Luis Rodriguez
+Country: Spain
+City: Madrid
+Gender: M
+GPA: 3.5
+
+Name: Ivan Petrov
+Country: Bulgaria
+City: Plovdiv
+Gender: M
+GPA: 3.4
+
+Name: Kira Sato
+Country: Japan
+City: Tokyo
+Gender: F
+GPA: 3.8
+
+Name: Juan Ramirez
+Country: Colombia
+City: BogotÃ¡
+Gender: M
+GPA: 3.9
+
+Name: Karla Hernandez
+Country: Mexico
+City: Guadalajara
+Gender: F
+GPA: 3.7
+
+Name: Meggan Smith
+Country: United States of America
+City: Los Angeles
+Gender: F
+GPA: 2.9
+
+Name: Maja Nicholson
+Country: United States of America
+City: Dallas
+Gender: F
+GPA: 3.4
+
+
+Name: Anna Kowalski
+Country: Poland
+City: Warsaw
+Gender: F
+GPA: 3.8
+
+Name: Emma Johnson
+Country: United States
+City: New York
+Gender: F
+GPA: 3.8
+
+Name: Pablo Fernandez
+Country: Spain
+City: Valencia
+Gender: M
+GPA: 3.6
+
+Name: Elena Ivanova
+Country: Russia
+City: Saint Petersburg
+Gender: F
+GPA: 3.7
+
+Name: David Weber
+Country: China
+City: Peking
+Gender: M
+GPA: 3.9
+
+Name: Edgar Sanchez
+Country: Mexico
+City: Tijuana
+Gender: M
+GPA: 3.7
+
+Name: Rochelle Johnson
+Country: United States of America
+City: Indianapolis
+Gender: F
+GPA: 3.4
+
+
+Name: Lee Chen
+Country: China
+City: Shanghai
+Gender: F
+GPA: 3.6
+
+Name: Sophia Lee
+Country: South Korea
+City: Seoul
+Gender: F
+GPA: 3.7
+
+Name: Andrei Kuznetsov
+Country: Russia
+City: Yekaterinburg
+Gender: M
+GPA: 3.4
+
+Name: Dmitry Ivanov
+Country: Russia
+City: St. Petersburg
+Gender: M
+GPA: 3.6
+
+Name: Abdallah Khattab
+Country: Egypt
+City: Mansoura
+Gender: M
+GPA: 3.3
+
+Name: Sophie Dubois
+Country: France
+City: Paris
+Gender: F
+GPA: 3.8
+
+Name: Juan Lopez
+Country: Colombia
+City: Bogota
+Gender: M
+GPA: 3.7
+
+Name: Emma Wilson
+Country: United Kingdom
+City: London
+Gender: F
+GPA: 3.8
+
+Name: Lucia Costa
+Country: Brazil
+City: Sao Paulo
+Gender: F
+GPA: 3.9
+
+Name: Alexei Petrov
+Country: Russia
+City: Novosibirsk
+Gender: M
+GPA: 3.4
+
+Name: Nour Alsharif
+Country: Jordan
+City: Amman
+Gender: F
+GPA: 3.5
+
+Name: Ahmed Elsayed
+Country: Egypt
+City: Alexandria
+Gender: M
+GPA: 3.6
+
+Name: Lauren Klocker
+Country: United States of America
+City: Los Angeles
+Gender: F
+GPA: 2.3
+
+Name: Lee Dong
+Country: Philippines
+City: Manila
+Gender: F
+GPA: 3.9
+
+
+Name: Juan Garcia
+Country: Mexico
+City: Mexico City
+Gender: M
+GPA: 3.7
+
+Name: Yuna Lee
+Country: South Korea
+City: Incheon
+Gender: F
+GPA: 3.6
+
+Name: Thiago Oliveira
+Country: Brazil
+City: SÃ£o Paulo
+Gender: M
+GPA: 3.3
+
+Name: Anna Kim
+Country: South Korea
+City: Busan
+Gender: F
+GPA: 3.3
+
+Name: Samantha Hicks
+Country: United States of America
+City: Santa Barbara
+Gender: F
+GPA: 3.7
+
+Name: Ericka Arreola
+Country: Mexico
+City: Mexico
+Gender: F
+GPA: 3.1
+
+Name: Preston Suarez
+Country: Japan
+City: Tokyo
+Gender: M
+GPA: 3.8
+
+
+Name: Alessia Bianchi
+Country: Italy
+City: Florence
+Gender: F
+GPA: 3.7
+
+Name: Sarah Smith
+Country: Canada
+City: Toronto
+Gender: F
+GPA: 3.8
+
+Name: Maria Santos
+Country: Portugal
+City: Lisbon
+Gender: F
+GPA: 3.5
+
+Name: Ahmed Abdelrahman
+Country: Egypt
+City: Giza
+Gender: M
+GPA: 3.6
+
+Name: Esra Ates
+Country: Turkey
+City: Ankara
+Gender: F
+GPA: 3.2
+
+Name: Jonas Hansen
+Country: Denmark
+City: Copenhagen
+Gender: M
+GPA: 3.8
+
+Name: Alina Petrova
+Country: Russia
+City: Moscow
+Gender: F
+GPA: 3.7
+
+Name: Taro Nakamura
+Country: Japan
+City: Osaka
+Gender: M
+GPA: 3.9
+
+Name: Dakota Wirth
+Country: United States of America
+City: Sacramento
+Gender: F
+GPA: 3.4
+
+Name: David Pulc
+Country: Canada
+City: Toronto
+Gender: M
+GPA: 3.9
+
+Name: Joey Abreu
+Country: China
+City: Shenyang
+Gender: M
+GPA: 3.7
+
+Name: Natasha Yarusso
+Country: United States of America
+City: Castro Valley
+Gender: F
+GPA: 3.3
+
+
+Name: Hiroshi Sato
+Country: Japan
+City: Tokyo
+Gender: M
+GPA: 3.8
+
+Name: Yuji Nakamura
+Country: Japan
+City: Osaka
+Gender: M
+GPA: 3.9
+
+Name: Fatima AlMansouri
+Country: United Arab Emirates
+City: Abu Dhabi
+Gender: F
+GPA: 3.7
+
+Name: Aya Hashimoto
+Country: Japan
+City: Kyoto
+Gender: F
+GPA: 3.9
+
+Name: Sophie Smith
+Country: United Kingdom
+City: Manchester
+Gender: F
+GPA: 3.4
+
+Name: Muhammad Abbas
+Country: Pakistan
+City: Karachi
+Gender: M
+GPA: 3.7
+
+Name: Natalie Wong
+Country: Hong Kong
+City: Hong Kong
+Gender: F
+GPA: 3.6
+
+Name: Emre Yilmaz
+Country: Turkey
+City: Istanbul
+Gender: M
+GPA: 3.5
+
+Name: Reilly Wagar
+Country: United States of America
+City: Modesto
+Gender: F
+GPA: 3.4
+
+Name: Sila Nguyen
+Country: China
+City: Hebi
+Gender: M
+GPA: 2.8
+
+Name: Sasha Jansen
+Country: United States of America
+City: Chicago
+Gender: F
+GPA: 1.7
+
+
+Name: Aisha Ali
+Country: United Arab Emirates
+City: Dubai
+Gender: F
+GPA: 3.5
+
+Name: Hassan Ali
+Country: Pakistan
+City: Islamabad
+Gender: M
+GPA: 3.2
+
+Name: Paulo Silva
+Country: Brazil
+City: Rio de Janeiro
+Gender: M
+GPA: 3.5
+
+Name: Hana Lee
+Country: South Korea
+City: Busan
+Gender: F
+GPA: 3.5
+
+Name: Ali Hassan
+Country: Pakistan
+City: Lahore
+Gender: M
+GPA: 3.2
+
+Name: Adrien Martin
+Country: France
+City: Paris
+Gender: M
+GPA: 3.9
+
+Name: Maya Patel
+Country: India
+City: New Delhi
+Gender: F
+GPA: 3.5
+
+Name: Rachel Jambor
+Country: United States of America
+City: Chicago
+Gender: F
+GPA: 3.6
+
+Name: Kolbi Strunk
+Country: United States of America
+City: Mission Viejo
+Gender: M
+GPA: 3.2
+
+Name: Alexander Sherman
+Country: United States of America
+City: Omaha
+Gender: M
+GPA: 3.8
+
+Name: Joshua Lonaker
+Country: United States of America
+City: Santa Clarita
+Gender: M
+GPA: 2.9
+
+
+Name: Pavel Novak
+Country: Czech Republic
+City: Prague
+Gender: M
+GPA: 3.6
+
+Name: Khaled AlSaad
+Country: Saudi Arabia
+City: Riyadh
+Gender: M
+GPA: 3.9
+
+Name: John Wilson
+Country: United States
+City: New York City
+Gender: M
+GPA: 3.4
+
+Name: Ying Liu
+Country: China
+City: Beijing
+Gender: F
+GPA: 3.9
+
+Name: Dmitry Popov
+Country: Russia
+City: Kazan
+Gender: M
+GPA: 3.4
+
+Name: Isabella Rossi
+Country: Italy
+City: Rome
+Gender: F
+GPA: 3.8
+
+Name: Maria Rodriguez
+Country: Spain
+City: Madrid
+Gender: F
+GPA: 3.9
+
+Name: Ahmed Khan
+Country: Pakistan
+City: Karachi
+Gender: M
+GPA: 3.4
+
+Name: Ivan Ivanov
+Country: Bulgaria
+City: Sofia
+Gender: M
+GPA: 3.6
+
+Name: Oliver Brown
+Country: United Kingdom
+City: Edinburgh
+Gender: M
+GPA: 3.5
+
+Name: Maria Fernandez
+Country: Mexico
+City: Mexico City
+Gender: F
+GPA: 3.7
+
+Name: Sara Gomez
+Country: Spain
+City: Barcelona
+Gender: F
+GPA: 3.2
+
+Name: Brandon Barbour
+Country: United States of America
+City: South Hill
+Gender: M
+GPA: 3.9
+
+Name: Angela Harding
+Country: United States of America
+City: Manteca
+Gender: F
+GPA: 3.1
+
+Name: Brittany Sath
+Country: Japan
+City: Tokyo
+Gender: F
+GPA: 4.0
+
+
+Name: Mohammed Abdelaziz
+Country: Egypt
+City: Cairo
+Gender: M
+GPA: 3.6
+
+Name: Ling Chen
+Country: China
+City: Shanghai
+Gender: F
+GPA: 3.9
+
+Name: Leila Bakir
+Country: Morocco
+City: Casablanca
+Gender: F
+GPA: 3.3
+
+Name: Brandon Lee
+Country: United States of America
+City: Los Angeles
+Gender: M
+GPA: 3.9
+
+Name: Marco Rossi
+Country: Italy
+City: Rome
+Gender: M
+GPA: 3.8
+
+Name: Victoria Ibarra
+Country: Dominican Republic
+City: Santo Domingo
+Gender: F
+GPA: 3.4
+
+Name: Rojesh Her
+Country: Japan
+City: Tokyo
+Gender: M
+GPA: 3.8
+
+Name: Kyle Luckey
+Country: United States of America
+City: Moreno Valley
+Gender: M
+GPA: 3.7
+
+
+Name: Alexei Ivanov
+Country: Russia
+City: Moscow
+Gender: M
+GPA: 3.9
+
+Name: Aleksandr Smirnov
+Country: Russia
+City: Moscow
+Gender: M
+GPA: 3.6
+
+Name: Ahmed Ali
+Country: Egypt
+City: Alexandria
+Gender: M
+GPA: 3.3
+
+Name: Maria Hernandez
+Country: Mexico
+City: Guadalajara
+Gender: F
+GPA: 3.5
+
+Name: David Kim
+Country: South Korea
+City: Seoul
+Gender: M
+GPA: 3.7
+
+Name: Sofia Torres
+Country: Argentina
+City: Buenos Aires
+Gender: F
+GPA: 3.5
+
+
+
+Homework 6 Menu:
+~~~~~~~~~~~~~~~~
+1. Insert
+2. Delete
+3. Update
+4. Search
+5. Print
+6. Exit
+Enter your choice (1-6): 
+6
+Hashtable statistics:
+ Count: 100
+ Size: 300
+ Collisions: 17
+
+
+
+]0;sankalpp@turing: ~/Homework6[01;32msankalpp@turing[00m:[01;34m~/Homework6[00m$ exit
+exit
+
+Script done on 2023-04-20 18:22:13-0500

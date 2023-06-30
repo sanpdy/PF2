@@ -1,0 +1,100 @@
+Joshua Lonaker,United States of America,Santa Clarita,M,2.9
+Dakota Blanco,United States of America,Oakland,F,3.9
+Natasha Yarusso,United States of America,Castro Valley,F,3.3
+Rochelle Johnson,United States of America,Indianapolis,F,3.4
+Joey Abreu,China,Shenyang,M,3.7
+Preston Suarez,Japan,Tokyo,M,3.8
+Lee Dong,Philippines,Manila,F,3.9
+Maja Nicholson,United States of America,Dallas,F,3.4
+Sasha Jansen,United States of America,Chicago,F,1.7
+Alexander Sherman,United States of America,Omaha,M,3.8
+Edgar Sanchez,Mexico,Tijuana,M,3.7
+Kolbi Strunk,United States of America,Mission Viejo,M,3.2
+Brittany Sath,Japan,Tokyo,F,4
+Meggan Smith,United States of America,Los Angeles,F,2.9
+Ericka Arreola,Mexico,Mexico,F,3.1
+David Pulc,Canada,Toronto,M,3.9
+Kyle Luckey,United States of America,Moreno Valley,M,3.7
+Rojesh Her,Japan,Tokyo,M,3.8
+David Weber,China,Peking,M,3.9
+Rachel Jambor,United States of America,Chicago,F,3.6
+Sila Nguyen,China,Hebi,M,2.8
+Samantha Hicks,United States of America,Santa Barbara,F,3.7
+Angela Harding,United States of America,Manteca,F,3.1
+Brandon Barbour,United States of America,South Hill,M,3.9
+Reilly Wagar,United States of America,Modesto,F,3.4
+Victoria Ibarra,Dominican Republic,Santo Domingo,F,3.4
+Dakota Wirth,United States of America,Sacramento,F,3.4
+Lauren Klocker,United States of America,Los Angeles,F,2.3
+Karla Hernandez,Mexico,Guadalajara,F,3.7
+Emre Yilmaz,Turkey,Istanbul,M,3.5
+Natalie Wong,Hong Kong,Hong Kong,F,3.6
+Juan Ramirez,Colombia,BogotÃ¡,M,3.9
+Anna Kim,South Korea,Busan,F,3.3
+Marco Rossi,Italy,Rome,M,3.8
+Sara Gomez,Spain,Barcelona,F,3.2
+Muhammad Abbas,Pakistan,Karachi,M,3.7
+Maya Patel,India,New Delhi,F,3.5
+Brandon Lee,United States of America,Los Angeles,M,3.9
+Sophie Smith,United Kingdom,Manchester,F,3.4
+Ahmed Elsayed,Egypt,Alexandria,M,3.6
+Taro Nakamura,Japan,Osaka,M,3.9
+Alina Petrova,Russia,Moscow,F,3.7
+Thiago Oliveira,Brazil,SÃ£o Paulo,M,3.3
+Nour Alsharif,Jordan,Amman,F,3.5
+Jonas Hansen,Denmark,Copenhagen,M,3.8
+Esra Ates,Turkey,Ankara,F,3.2
+Maria Fernandez,Mexico,Mexico City,F,3.7
+Yuna Lee,South Korea,Incheon,F,3.6
+Adrien Martin,France,Paris,M,3.9
+Elena Ivanova,Russia,Saint Petersburg,F,3.7
+Ahmed Abdelrahman,Egypt,Giza,M,3.6
+Kira Sato,Japan,Tokyo,F,3.8
+Sofia Torres,Argentina,Buenos Aires,F,3.5
+Alexei Petrov,Russia,Novosibirsk,M,3.4
+Aya Hashimoto,Japan,Kyoto,F,3.9
+Pablo Fernandez,Spain,Valencia,M,3.6
+Leila Bakir,Morocco,Casablanca,F,3.3
+Oliver Brown,United Kingdom,Edinburgh,M,3.5
+David Kim,South Korea,Seoul,M,3.7
+Maria Hernandez,Mexico,Guadalajara,F,3.5
+Ali Hassan,Pakistan,Lahore,M,3.2
+Lucia Costa,Brazil,Sao Paulo,F,3.9
+Ivan Ivanov,Bulgaria,Sofia,M,3.6
+Emma Wilson,United Kingdom,London,F,3.8
+Ahmed Ali,Egypt,Alexandria,M,3.3
+Juan Lopez,Colombia,Bogota,M,3.7
+Hana Lee,South Korea,Busan,F,3.5
+Ahmed Khan,Pakistan,Karachi,M,3.4
+Maria Rodriguez,Spain,Madrid,F,3.9
+Aleksandr Smirnov,Russia,Moscow,M,3.6
+Sophie Dubois,France,Paris,F,3.8
+Abdallah Khattab,Egypt,Mansoura,M,3.3
+Paulo Silva,Brazil,Rio de Janeiro,M,3.5
+Ling Chen,China,Shanghai,F,3.9
+Dmitry Ivanov,Russia,St. Petersburg,M,3.6
+Emma Johnson,United States,New York,F,3.8
+Fatima AlMansouri,United Arab Emirates,Abu Dhabi,F,3.7
+Ivan Petrov,Bulgaria,Plovdiv,M,3.4
+Yuji Nakamura,Japan,Osaka,M,3.9
+Mohammed Abdelaziz,Egypt,Cairo,M,3.6
+Isabella Rossi,Italy,Rome,F,3.8
+Maria Santos,Portugal,Lisbon,F,3.5
+Dmitry Popov,Russia,Kazan,M,3.4
+Juan Garcia,Mexico,Mexico City,M,3.7
+Ying Liu,China,Beijing,F,3.9
+Hassan Ali,Pakistan,Islamabad,M,3.2
+Sarah Smith,Canada,Toronto,F,3.8
+Andrei Kuznetsov,Russia,Yekaterinburg,M,3.4
+Sophia Lee,South Korea,Seoul,F,3.7
+Luis Rodriguez,Spain,Madrid,M,3.5
+Anna Kowalski,Poland,Warsaw,F,3.8
+John Wilson,United States,New York City,M,3.4
+Khaled AlSaad,Saudi Arabia,Riyadh,M,3.9
+Aisha Ali,United Arab Emirates,Dubai,F,3.5
+Pavel Novak,Czech Republic,Prague,M,3.6
+Alessia Bianchi,Italy,Florence,F,3.7
+Hiroshi Sato,Japan,Tokyo,M,3.8
+Maria Hernandez,Mexico,Guadalajara,F,3.4
+Alexei Ivanov,Russia,Moscow,M,3.9
+Lee Chen,China,Shanghai,F,3.6
