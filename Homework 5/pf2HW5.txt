@@ -1,0 +1,36 @@
+Script started on 2023-04-07 13:04:30-0500
+]0;sankalpp@turing: ~/Homework 5[01;32msankalpp@turing[00m:[01;34m~/Homework 5[00m$ ,.[K[Kg++ main.cpp B[K[K[K[K[K[K[K[K[K-[K[K-Wall main.cpp W[KBook.cpp -o wa[K[Kmain.exce[K[Ke
+[01m[Kmain.cpp:[m[K In function ‘[01m[Kvoid writeFile(std::__cxx11::string, std::vector<Book>&)[m[K’:
+[01m[Kmain.cpp:49:22:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [[01;35m[K-Wsign-compare[m[K]
+     for(int i = 0; [01;35m[Ki < books.size()[m[K; i++)
+                    [01;35m[K~~^~~~~~~~~~~~~~[m[K
+]0;sankalpp@turing: ~/Homework 5[01;32msankalpp@turing[00m:[01;34m~/Homework 5[00m$ ./main.exe
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     WELCOME TO THE HOMEWORK 5     
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Quick Sort Algorithm Beginning...
+Run time for Quick Sort algorithm: 0.009252 seconds
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Merge Sort Algorithm Beginning...
+Run time for Merge Sort algorithm: 0.067382 seconds
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Selection Sort Algorithm Beginning...
+Run time for Selection Sort algorithm: 7.93641 seconds
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Insertion Sort Algorithm Beginning...
+Run time for Insertion Sort algorithm: 2.78042 seconds
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+All algorithms timed.
+]0;sankalpp@turing: ~/Homework 5[01;32msankalpp@turing[00m:[01;34m~/Homework 5[00m$ exit
+exit
+
+Script done on 2023-04-07 13:05:07-0500
